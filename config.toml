@@ -23,4 +23,6 @@ hyde_sticky = true
 hyde_reverse = true
 hyde_links = [
     {url = "/blog", name = "Blog"},
+    {url = "/tags", name = "Tags"},
+    {url = "https://twitter.com/logout", name = "How to learn everything"}
 ]
