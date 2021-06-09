@@ -3,7 +3,7 @@ base_url = "https://simulacre-9to.netlify.app/"
 
 #metadata
 title = "Simulacre"
-description  = "hoge"
+description  = "元気と時間がないと言い続けて死ぬ."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
