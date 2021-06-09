@@ -19,3 +19,6 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+hyde_links = [
+    {url = "$base_url/blog", name = "Blog"},
+]
