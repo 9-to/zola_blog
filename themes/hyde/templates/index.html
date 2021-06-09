@@ -73,10 +73,17 @@
                     <div class="pagenation">
                       <div class="pagenation_buttons">
                         {%- if paginator.previous %}
-                          <a href="{{ paginator.previous | safe}}">&lt;&lt;previous</a>
+                          <a href="{{ paginator.previous | safe}}">←Previous</a>
+                        {% endif -%}
+                        {%- if paginator.current_index %}
+                        {%- if paginator.number_pagers %}
+                          |
+                          Page {{ paginator.current_index |safe}} of {{ paginator.number_pagers |safe}}
+                          |
+                        {% endif -%}
                         {% endif -%}
                         {%- if paginator.next %}
-                          <a href="{{ paginator.next | safe}}">next&gt;&gt;</a>
+                          <a href="{{ paginator.next | safe}}">Next→</a>
                         {% endif -%}
                       </div>
                     </div>
