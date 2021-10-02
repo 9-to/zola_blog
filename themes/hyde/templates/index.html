@@ -65,6 +65,13 @@
                         </h1>
 
                         <span class="post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+                        {%- if page.taxonomies and page.taxonomies.tags %}
+                          <span class="post-tags-inline">
+                            {%- for tag in page.taxonomies.tags %}
+                              <a class="post-tag" href="{{ get_taxonomy_url(kind='tags', name=tag) | safe }}">#{{ tag }}</a>
+                            {% endfor -%}
+                          </span>
+                        {% endif -%}
                         <div class="post-content">
                             {{ page.summary | safe }}
                         </div>

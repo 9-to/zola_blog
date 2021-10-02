@@ -12,6 +12,11 @@ compile_sass = true
 build_search_index = false
 theme = "hyde"
 
+# Optional: enable tags
+taxonomies = [
+    {name = "tags"}
+]
+
 [markdown]
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola

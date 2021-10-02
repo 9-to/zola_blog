@@ -1,6 +1,8 @@
 +++
 title = "discordと連携するRSSリーダー"
 date = 2021-08-23
+[taxonomies]
+tags =["programing"]
 +++
 
 「人様のブログを読みたい！」という欲求はここ半年で急激に強まりつつあった。

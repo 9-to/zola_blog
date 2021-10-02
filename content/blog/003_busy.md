@@ -1,6 +1,8 @@
 +++
 title = "深夜に書く"
 date = 2021-06-22
+[taxonomies]
+tags =["diary"]
 +++
 
 豚の角煮を作った。
