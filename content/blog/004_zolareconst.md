@@ -1,6 +1,8 @@
 +++
 title = "改修"
 date = 2021-07-10
+[taxonomies]
+tags =["programing"]
 +++
 
 ブログを改装している。
