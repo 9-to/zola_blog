@@ -16,8 +16,18 @@ path = "links"
 
 音楽を投稿しています。
 
+<br>
 
+* [github](https://github.com/9-to)
 
+大したものはないです。
 
+<br>
+
+* pixiv
+
+作成中です。
+
+<br>
 
 <!-- more -->
