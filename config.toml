@@ -12,6 +12,10 @@ compile_sass = true
 build_search_index = false
 theme = "hyde"
 
+# Myself
+generate_feed = true
+feed_filename = "rss.xml"
+
 # Optional: enable tags
 taxonomies = [
     {name = "tags"}
