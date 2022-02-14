@@ -111,7 +111,7 @@ function readRange(spreadsheetId, arr) {
 
 これをgoogle driveのどこかにGoogle Apps Scriptとして保存してトリガーを追加する。
 
-![photo005_1](https://simulacre-9to.netlify.app/blog/005_1.png)
+![photo005_1](https://simulacre-9to.netlify.app/images/005_1.png)
 
 巡回したいブログ一覧はgoogleスプレッドシートに保存すれば良い。
 
