@@ -24,7 +24,7 @@ tags =["diary"]
 1万人もフォロワーがいると十分メジャーに感じるが、乃木坂46のtwitterフォロワー数が205万人であることを考えるとインディーズなのだろう。音屋(DTMer)のスケールと違いすぎて感覚がバグる。
 
 ---
-以下は見解をだらだら書いている。体験記だけ読みたい人は[こちら](https://simulacre-9to.netlify.app/blog/023-chikaidollive/#shi-xi-lie-de-nagan-xiang)
+以下は見解をだらだら書いている。体験記だけ読みたい人は[こちら](https://simulacre-9to.netlify.app/blog/023-chikaidollive/#ti-yan-ji)
 
 ---
 
