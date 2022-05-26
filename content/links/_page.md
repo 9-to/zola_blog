@@ -24,10 +24,20 @@ path = "links"
 
 <br>
 
-* pixiv
+* [pixiv]
 
 作成中です。
 
 <br>
+
+* [YouTube]
+
+作成中です。
+
+<br>
+
+* 小説
+
+作成中です。
 
 <!-- more -->
