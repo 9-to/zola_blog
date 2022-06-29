@@ -110,7 +110,7 @@ DBの構成はコレクション>ドキュメント>フィールド(辞書型)�
 
 また、users>subsというドキュメントに通知してほしいtwitchチャンネルのuser idを収納する。（user idは整数で構成されている。つまりアドレスで表示されているuser_loginとは別に存在するためAPIを叩いて調べる必要がある）key=user_login、value=user_idで収納する。
 
-[photo020_01](https://simulacre-9to.netlify.app/images/020_01.png)
+![photo020_01](https://simulacre-9to.netlify.app/images/020_01.png)
 
 ### 3. GCPでCloud Functionsを作成する(サブスクライバ編)
 コーディングするだけ。実際のコードは[これ](https://github.com/9-to/twitchBot_GCP)を見てください。
