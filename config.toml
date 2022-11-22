@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://simulacre-9to.netlify.app/"
+base_url = "https://simulacre-simulacre.netlify.app/"
 
 #metadata
 title = "Simulacre"
