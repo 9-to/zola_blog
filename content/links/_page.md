@@ -6,9 +6,9 @@ path = "links"
 
 <br>
 
-* [twitter](https://twitter.com/so9t0)
+* ~~[twitter](https://twitter.com/so9t0)~~
 
-日記代わりに使うと思います。
+~~日記代わりに使うと思います。~~消しました。
 
 <br>
 
